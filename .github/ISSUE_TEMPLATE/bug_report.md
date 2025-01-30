@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 <!--
-First look if there is already a similar bug report. If there is, add a comment to it instead!
+First look if there is already a similar bug report. If there is, upvote the issue with 👍
 
 Please also check if the bug is still present in latest master! Do so by adding the following lines to your Cargo.toml:
 
@@ -20,7 +20,7 @@ eframe = { git = "https://github.com/emilk/egui", branch = "master" }
 -->
 
 **Describe the bug**
-<!-- A clear and concise description of what the bug is. -->
+<!-- A clear and concise description of what the bug is. An image is good, a gif or movie is better! -->
 
 **To Reproduce**
 Steps to reproduce the behavior:
